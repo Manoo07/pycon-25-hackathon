@@ -12,12 +12,12 @@ A dedicated **Agent Management Layer** ensures that the agent database is always
 
 ## 2. System Objectives
 
-* **Accurate Assignment**: Route tickets to agents with the right expertise.
-* **Dynamic Agent Management**: Automatically onboard new agents and update existing agent profiles in the vector database.
-* **Fair Workload Distribution**: Continuously balance assignments as the agent pool changes.
-* **Adaptive Reasoning**: Use LLMs to handle ambiguous or novel tickets.
-* **Scalable Processing**: Efficiently handle large ticket volumes.
-* **Explainability**: Provide assignment rationale for transparency and auditability.
+- **Accurate Assignment**: Route tickets to agents with the right expertise.
+- **Dynamic Agent Management**: Automatically onboard new agents and update existing agent profiles in the vector database.
+- **Fair Workload Distribution**: Continuously balance assignments as the agent pool changes.
+- **Adaptive Reasoning**: Use LLMs to handle ambiguous or novel tickets.
+- **Scalable Processing**: Efficiently handle large ticket volumes.
+- **Explainability**: Provide assignment rationale for transparency and auditability.
 
 ---
 
@@ -88,57 +88,57 @@ A dedicated **Agent Management Layer** ensures that the agent database is always
 
 ### 4.1 Ticket Ingestion
 
-* Receives tickets via APIs, message queues, or batch files (`dataset.json`).
-* Normalizes inputs to a standard schema.
+- Receives tickets via APIs, message queues, or batch files (`dataset.json`).
+- Normalizes inputs to a standard schema.
 
 ### 4.2 Ticket Pre-Processor
 
-* Cleans ticket descriptions and extracts metadata (timestamp, priority, category).
-* Generates an enriched representation for downstream processing.
+- Cleans ticket descriptions and extracts metadata (timestamp, priority, category).
+- Generates an enriched representation for downstream processing.
 
 ### 4.3 RAG Candidate Retrieval
 
-* Rephrases ticket descriptions for clarity.
-* Generates ticket embeddings using a pre-trained model.
-* Queries the vector database for **top 5 candidate agents** based on skill, proficiency, and historical resolution success.
+- Rephrases ticket descriptions for clarity.
+- Generates ticket embeddings using a pre-trained model.
+- Queries the vector database for **top 5 candidate agents** based on skill, proficiency, and historical resolution success.
 
 ### 4.4 LLM Assignment Module
 
-* Consumes the ticket and retrieved candidate agents.
-* Uses **few-shot prompting** with historical examples.
-* Selects the most suitable agent and provides justification.
+- Consumes the ticket and retrieved candidate agents.
+- Uses **few-shot prompting** with historical examples.
+- Selects the most suitable agent and provides justification.
 
 ### 4.5 Assignment Validator
 
-* Ensures selected agent meets basic constraints:
+- Ensures selected agent meets basic constraints:
 
-  * Required skill set
-  * Availability status
-  * Workload thresholds
+  - Required skill set
+  - Availability status
+  - Workload thresholds
 
 ### 4.6 Load Balancer
 
-* Monitors ticket distribution across agents.
-* Ensures equitable workload sharing.
-* Implements fallback escalation when no ideal candidate is available.
+- Monitors ticket distribution across agents.
+- Ensures equitable workload sharing.
+- Implements fallback escalation when no ideal candidate is available.
 
 ### 4.7 Output Generator
 
-* Produces structured assignment results in `output_result.json`.
-* Includes optional rationale for traceability.
+- Produces structured assignment results in `output_result.json`.
+- Includes optional rationale for traceability.
 
 ### 4.8 Agent Management Layer
 
-* Handles onboarding of **new agents** into the system.
-* Updates skills, proficiency scores, and availability for existing agents.
-* Re-generates embeddings and refreshes the vector database.
-* Triggers rebalancing logic to incorporate new capacity.
+- Handles onboarding of **new agents** into the system.
+- Updates skills, proficiency scores, and availability for existing agents.
+- Re-generates embeddings and refreshes the vector database.
+- Triggers rebalancing logic to incorporate new capacity.
 
 ### 4.9 Monitoring & Feedback
 
-* Collects metrics on assignment accuracy, fairness, and resolution success.
-* Captures agent and system feedback.
-* Supports continuous improvement cycles.
+- Collects metrics on assignment accuracy, fairness, and resolution success.
+- Captures agent and system feedback.
+- Supports continuous improvement cycles.
 
 ---
 
@@ -157,20 +157,20 @@ A dedicated **Agent Management Layer** ensures that the agent database is always
 
 ## 6. Success Metrics
 
-* **Assignment Accuracy**: Percentage of tickets correctly resolved by the first assigned agent.
-* **Workload Balance**: Variance in ticket distribution across agents.
-* **Resolution Rate**: Percentage of tickets closed without reassignment.
-* **Latency**: Average processing time per ticket.
-* **Adaptability**: Time taken to integrate a new agent into routing.
+- **Assignment Accuracy**: Percentage of tickets correctly resolved by the first assigned agent.
+- **Workload Balance**: Variance in ticket distribution across agents.
+- **Resolution Rate**: Percentage of tickets closed without reassignment.
+- **Latency**: Average processing time per ticket.
+- **Adaptability**: Time taken to integrate a new agent into routing.
 
 ---
 
 ## 7. Future Enhancements
 
-* **Automated Skill Discovery**: Derive agent skill profiles from historical performance data.
-* **Self-Healing Routing**: Automatically adjust vector embeddings based on resolution outcomes.
-* **Advanced Prioritization**: Integrate SLA deadlines, customer importance, and escalation rules.
-* **Multilingual Ticket Support**: Expand handling to non-English descriptions.
+- **Automated Skill Discovery**: Derive agent skill profiles from historical performance data.
+- **Self-Healing Routing**: Automatically adjust vector embeddings based on resolution outcomes.
+- **Advanced Prioritization**: Integrate SLA deadlines, customer importance, and escalation rules.
+- **Multilingual Ticket Support**: Expand handling to non-English descriptions.
 
 ---
 
@@ -214,12 +214,14 @@ A dedicated **Agent Management Layer** ensures that the agent database is always
 The **Agent Management Layer** maintains this schema and ensures:
 
 1. **New Agent Onboarding**:
+
    - Profile creation with skill assessment
    - Vector embedding generation
    - Database insertion
    - Capacity planning adjustment
 
 2. **Existing Agent Updates**:
+
    - Skill level modifications
    - Availability status changes
    - Performance metric updates

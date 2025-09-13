@@ -32,11 +32,13 @@ This project implements an intelligent ticket assignment system that uses Google
 ### Installation & Setup
 
 1. **Clone and Navigate**
+
    ```bash
    cd pycon-25-hackathon
    ```
 
 2. **Install Dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -275,6 +277,7 @@ Easily adapt for different industries:
 ### Quick Demo
 
 1. **Install and Run**:
+
    ```bash
    pip install -r requirements.txt
    python3 main.py
@@ -318,4 +321,4 @@ python3 main.py
 - Generates `final_output_result.json` with optimal assignments
 - Handles 100 tickets across 10 agents in ~30 seconds
 
-*Submit your GitHub link here: https://forms.gle/gnR62EoZUfeA8zqJ9*
+_Submit your GitHub link here: https://forms.gle/gnR62EoZUfeA8zqJ9_
