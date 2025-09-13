@@ -1,602 +1,602 @@
 [
   {
-    "ticket_id": "TKT-2025-004",
-    "title": "New laptop fails to boot into OS after initial setup",
-    "assigned_agent_id": "agent_006",
-    "rationale": "Selected Emily Johnson based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-006",
-    "title": "Slow performance of main database server",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-010",
-    "title": "External website hosted on Azure is unreachable",
-    "assigned_agent_id": "agent_003",
-    "rationale": "Selected Michael Lee based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-014",
-    "title": "Black screen with blinking cursor on desktop PC",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-019",
-    "title": "Network outage in Building C",
-    "assigned_agent_id": "agent_007",
-    "rationale": "Selected Chris Davis based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-023",
-    "title": "Website login page redirecting to 404 error",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-029",
-    "title": "Malware detected on an employee's laptop",
-    "assigned_agent_id": "agent_003",
-    "rationale": "Selected Michael Lee based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-033",
-    "title": "Employee needs temporary access to a critical system",
-    "assigned_agent_id": "agent_007",
-    "rationale": "Selected Chris Davis based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-035",
-    "title": "Server room temperature alarm triggered",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-038",
-    "title": "Server running out of disk space",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-042",
-    "title": "Website showing '502 Bad Gateway' error",
-    "assigned_agent_id": "agent_008",
-    "rationale": "Selected Laura Martinez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-049",
-    "title": "Desktop computer not turning on",
-    "assigned_agent_id": "agent_006",
-    "rationale": "Selected Emily Johnson based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-050",
-    "title": "SQL Server database backup failing",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Selected Sarah Chen based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-052",
-    "title": "Router in a branch office is offline",
-    "assigned_agent_id": "agent_004",
-    "rationale": "Selected Jessica Williams based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-059",
-    "title": "Company's public website is down",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-065",
-    "title": "Employee terminated, needs account de-provisioning",
-    "assigned_agent_id": "agent_003",
-    "rationale": "Selected Michael Lee based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-069",
-    "title": "Corporate website is blocked by a public firewall",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Selected Sarah Chen based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-075",
-    "title": "Corporate website is loading very slowly",
-    "assigned_agent_id": "agent_009",
-    "rationale": "Selected James Brown based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-081",
-    "title": "Network switch in Building A is not responding",
-    "assigned_agent_id": "agent_007",
-    "rationale": "Selected Chris Davis based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-085",
-    "title": "Suspected breach of a network segment",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Selected Sarah Chen based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-093",
-    "title": "Laptop fan is not spinning",
-    "assigned_agent_id": "agent_006",
-    "rationale": "Selected Emily Johnson based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-096",
-    "title": "Website showing 'Internal Server Error' 500",
-    "assigned_agent_id": "agent_008",
-    "rationale": "Selected Laura Martinez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-097",
-    "title": "Suspected phishing attack targeting finance department",
-    "assigned_agent_id": "agent_003",
-    "rationale": "Selected Michael Lee based on skill match and workload balance"
-  },
-  {
     "ticket_id": "TKT-2025-001",
     "title": "VPN connection dropping intermittently for all remote users",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Selected Sarah Chen based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-008",
-    "title": "User account locked due to suspicious login attempts",
-    "assigned_agent_id": "agent_007",
-    "rationale": "Selected Chris Davis based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-009",
-    "title": "New employee laptop setup request",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Selected Sarah Chen based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-011",
-    "title": "Phishing email reported by employee",
-    "assigned_agent_id": "agent_003",
-    "rationale": "Selected Michael Lee based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-016",
-    "title": "Application XYZ is not connecting to the database on the production server",
-    "assigned_agent_id": "agent_003",
-    "rationale": "Selected Michael Lee based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-026",
-    "title": "Slow network performance in the R&D department",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Selected Sarah Chen based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-028",
-    "title": "User cannot log into their desktop computer",
-    "assigned_agent_id": "agent_006",
-    "rationale": "Selected Emily Johnson based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-031",
-    "title": "Company website DNS records not propagating",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-034",
-    "title": "The projector in Conference Room B is not working",
-    "assigned_agent_id": "agent_006",
-    "rationale": "Selected Emily Johnson based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-040",
-    "title": "Broken USB-C port on a laptop",
-    "assigned_agent_id": "agent_007",
-    "rationale": "Selected Chris Davis based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-041",
-    "title": "Corporate antivirus software not updating definitions",
-    "assigned_agent_id": "agent_005",
-    "rationale": "Selected David Gupta based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-048",
-    "title": "Request to reset password for a service account",
-    "assigned_agent_id": "agent_003",
-    "rationale": "Selected Michael Lee based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-056",
-    "title": "User's desktop is displaying 'Endpoint not compliant' error",
     "assigned_agent_id": "agent_004",
-    "rationale": "Selected Jessica Williams based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-057",
-    "title": "Unable to connect to shared folders on a new server",
-    "assigned_agent_id": "agent_008",
-    "rationale": "Selected Laura Martinez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-061",
-    "title": "Server log reports suspicious login attempts",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-063",
-    "title": "Physical damage to a server rack in the data center",
-    "assigned_agent_id": "agent_007",
-    "rationale": "Selected Chris Davis based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-066",
-    "title": "User cannot open a specific application",
-    "assigned_agent_id": "agent_005",
-    "rationale": "Selected David Gupta based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-068",
-    "title": "Desktop PC making a high-pitched noise",
-    "assigned_agent_id": "agent_006",
-    "rationale": "Selected Emily Johnson based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-072",
-    "title": "Unauthorized access to a shared folder",
-    "assigned_agent_id": "agent_009",
-    "rationale": "Selected James Brown based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-077",
-    "title": "Server security patch deployment failure",
-    "assigned_agent_id": "agent_010",
-    "rationale": "Selected Michelle Kim based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-083",
-    "title": "Request for access to new database table",
-    "assigned_agent_id": "agent_009",
-    "rationale": "Selected James Brown based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-088",
-    "title": "Laptop is randomly restarting",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-089",
-    "title": "Wi-Fi is not working in Conference Room C",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-091",
-    "title": "Server log reports high CPU utilization",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-098",
-    "title": "Laptop is not charging",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Jessica Williams (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-002",
     "title": "Email access problem in Outlook for one specific user",
-    "assigned_agent_id": "agent_004",
-    "rationale": "Selected Jessica Williams based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-005",
-    "title": "Employee unable to log into HR portal using SSO",
     "assigned_agent_id": "agent_009",
-    "rationale": "Selected James Brown based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-018",
-    "title": "Laptop fan making loud grinding noise",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-022",
-    "title": "Desktop monitor keeps flickering and turning off",
-    "assigned_agent_id": "agent_007",
-    "rationale": "Selected Chris Davis based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-024",
-    "title": "VoIP phone not registering with network",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-025",
-    "title": "User reports unauthorized access to their OneDrive",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-032",
-    "title": "JIRA software migration from on-prem to Cloud",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-037",
-    "title": "Outlook Calendar not syncing with mobile device",
-    "assigned_agent_id": "agent_004",
-    "rationale": "Selected Jessica Williams based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-039",
-    "title": "User cannot log into their account on an old legacy application",
-    "assigned_agent_id": "agent_009",
-    "rationale": "Selected James Brown based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-044",
-    "title": "External monitor not detected by laptop",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-051",
-    "title": "User cannot log into a website using SAML SSO",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-055",
-    "title": "Laptop battery not holding charge",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-060",
-    "title": "User's laptop is extremely slow",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-064",
-    "title": "User cannot connect to a specific Wi-Fi network",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-070",
-    "title": "User's laptop screen is cracked",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-071",
-    "title": "Unable to log in to Microsoft Teams after password change",
-    "assigned_agent_id": "agent_004",
-    "rationale": "Selected Jessica Williams based on skill match and workload balance"
-  },
-  {
-    "ticket_id": "TKT-2025-079",
-    "title": "Cannot send emails from an application using a relay",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-082",
-    "title": "User's laptop keyboard is typing the wrong characters",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-084",
-    "title": "USB port on a desktop PC not working",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-094",
-    "title": "User cannot find an email in their inbox",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-099",
-    "title": "User cannot log in to a specific SaaS application",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
-  },
-  {
-    "ticket_id": "TKT-2025-100",
-    "title": "Network printer is printing garbled text",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to James Brown (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-003",
     "title": "Access denied to shared drive on Linux server after permission change",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-004",
+    "title": "New laptop fails to boot into OS after initial setup",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-005",
+    "title": "Employee unable to log into HR portal using SSO",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-006",
+    "title": "Slow performance of main database server",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-007",
     "title": "Corporate printer in marketing department not printing",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-008",
+    "title": "User account locked due to suspicious login attempts",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-009",
+    "title": "New employee laptop setup request",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-010",
+    "title": "External website hosted on Azure is unreachable",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-011",
+    "title": "Phishing email reported by employee",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-012",
     "title": "Samba share access issue on new macOS Big Sur",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-013",
     "title": "Request for a new user account on the Jenkins server",
-    "assigned_agent_id": "agent_002",
-    "rationale": "Selected Alex Rodriguez based on skill match and workload balance"
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-014",
+    "title": "Black screen with blinking cursor on desktop PC",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-015",
     "title": "Firewall ruleset change request for new application",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-016",
+    "title": "Application XYZ is not connecting to the database on the production server",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-017",
     "title": "Request for access to new SharePoint site",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-018",
+    "title": "Laptop fan making loud grinding noise",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-019",
+    "title": "Network outage in Building C",
     "assigned_agent_id": "agent_004",
-    "rationale": "Selected Jessica Williams based on skill match and workload balance"
+    "rationale": "Assigned to Jessica Williams (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-020",
     "title": "Can't install new software from Windows Store for Business",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-021",
     "title": "Request for a new domain user account",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-022",
+    "title": "Desktop monitor keeps flickering and turning off",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-023",
+    "title": "Website login page redirecting to 404 error",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-024",
+    "title": "VoIP phone not registering with network",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-025",
+    "title": "User reports unauthorized access to their OneDrive",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-026",
+    "title": "Slow network performance in the R&D department",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-027",
     "title": "Can't share files from a new SharePoint library",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-028",
+    "title": "User cannot log into their desktop computer",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-029",
+    "title": "Malware detected on an employee's laptop",
     "assigned_agent_id": "agent_004",
-    "rationale": "Selected Jessica Williams based on skill match and workload balance"
+    "rationale": "Assigned to Jessica Williams (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-030",
     "title": "New laptop requires memory upgrade",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-031",
+    "title": "Company website DNS records not propagating",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-032",
+    "title": "JIRA software migration from on-prem to Cloud",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-033",
+    "title": "Employee needs temporary access to a critical system",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-034",
+    "title": "The projector in Conference Room B is not working",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-035",
+    "title": "Server room temperature alarm triggered",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-036",
     "title": "Employee needs a new account for Salesforce CRM",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-037",
+    "title": "Outlook Calendar not syncing with mobile device",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-038",
+    "title": "Server running out of disk space",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-039",
+    "title": "User cannot log into their account on an old legacy application",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-040",
+    "title": "Broken USB-C port on a laptop",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-041",
+    "title": "Corporate antivirus software not updating definitions",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-042",
+    "title": "Website showing '502 Bad Gateway' error",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-043",
     "title": "User cannot find a specific file on the shared drive",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-044",
+    "title": "External monitor not detected by laptop",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-045",
     "title": "New employee requires email setup on mobile phone",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-046",
     "title": "Failed attempt to connect to a new VPN endpoint",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-047",
     "title": "Employee needs a new license for Adobe Creative Cloud",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-048",
+    "title": "Request to reset password for a service account",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-049",
+    "title": "Desktop computer not turning on",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-050",
+    "title": "SQL Server database backup failing",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-051",
+    "title": "User cannot log into a website using SAML SSO",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-052",
+    "title": "Router in a branch office is offline",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-053",
     "title": "New employee requires Linux development environment setup",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-054",
     "title": "Network drive mapping not working for new hires",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-055",
+    "title": "Laptop battery not holding charge",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-056",
+    "title": "User's desktop is displaying 'Endpoint not compliant' error",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-057",
+    "title": "Unable to connect to shared folders on a new server",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-058",
     "title": "Password reset required for a user account",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-059",
+    "title": "Company's public website is down",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-060",
+    "title": "User's laptop is extremely slow",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-061",
+    "title": "Server log reports suspicious login attempts",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-062",
     "title": "Employee needs a new license for Visio Professional",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-063",
+    "title": "Physical damage to a server rack in the data center",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-064",
+    "title": "User cannot connect to a specific Wi-Fi network",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-065",
+    "title": "Employee terminated, needs account de-provisioning",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-066",
+    "title": "User cannot open a specific application",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-067",
     "title": "Request for a new security group in Active Directory",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-068",
+    "title": "Desktop PC making a high-pitched noise",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-069",
+    "title": "Corporate website is blocked by a public firewall",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-070",
+    "title": "User's laptop screen is cracked",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-071",
+    "title": "Unable to log in to Microsoft Teams after password change",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-072",
+    "title": "Unauthorized access to a shared folder",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-073",
     "title": "Cloud cost optimization request",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-074",
     "title": "Failed attempt to connect to a new printer",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-075",
+    "title": "Corporate website is loading very slowly",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-076",
     "title": "User cannot create a new team in Microsoft Teams",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-077",
+    "title": "Server security patch deployment failure",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-078",
     "title": "Broken keyboard on a laptop",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-079",
+    "title": "Cannot send emails from an application using a relay",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-080",
     "title": "Request for a new user account for a contractor",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-081",
+    "title": "Network switch in Building A is not responding",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-082",
+    "title": "User's laptop keyboard is typing the wrong characters",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-083",
+    "title": "Request for access to new database table",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-084",
+    "title": "USB port on a desktop PC not working",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-085",
+    "title": "Suspected breach of a network segment",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-086",
     "title": "Company blog is showing outdated content",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-087",
     "title": "Request to add new user to a mailing list",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-088",
+    "title": "Laptop is randomly restarting",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-089",
+    "title": "Wi-Fi is not working in Conference Room C",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-090",
     "title": "Employee needs a new license for Tableau",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-091",
+    "title": "Server log reports high CPU utilization",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Assigned to Emily Johnson (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-092",
     "title": "User cannot connect to their shared drive on a new Mac",
-    "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "assigned_agent_id": "agent_007",
+    "rationale": "Assigned to Chris Davis (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-093",
+    "title": "Laptop fan is not spinning",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Assigned to Laura Martinez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-094",
+    "title": "User cannot find an email in their inbox",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Assigned to James Brown (load balancing)"
   },
   {
     "ticket_id": "TKT-2025-095",
     "title": "Request for a new user account for an intern",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Assigned to Michelle Kim (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-096",
+    "title": "Website showing 'Internal Server Error' 500",
     "assigned_agent_id": "agent_001",
-    "rationale": "Default assignment"
+    "rationale": "Assigned to Sarah Chen (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-097",
+    "title": "Suspected phishing attack targeting finance department",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Assigned to Alex Rodriguez (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-098",
+    "title": "Laptop is not charging",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Assigned to Michael Lee (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-099",
+    "title": "User cannot log in to a specific SaaS application",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Assigned to Jessica Williams (load balancing)"
+  },
+  {
+    "ticket_id": "TKT-2025-100",
+    "title": "Network printer is printing garbled text",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Assigned to David Gupta (load balancing)"
   }
 ]

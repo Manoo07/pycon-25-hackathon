@@ -305,20 +305,3 @@ pycon-25-hackathon/
 ├── final_output_result.json        # Generated results
 └── README.md                       # Documentation
 ```
-
----
-
-**Ready for Hackathon Submission!**
-
-### Main Entry Point
-
-```bash
-python3 main.py
-```
-
-- Processes all tickets from `dataset.json`
-- Uses Google Gemini LLM for intelligent analysis
-- Generates `final_output_result.json` with optimal assignments
-- Handles 100 tickets across 10 agents in ~30 seconds
-
-_Submit your GitHub link here: https://forms.gle/gnR62EoZUfeA8zqJ9_
