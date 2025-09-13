@@ -2,9 +2,23 @@
 
 **AI-Powered Ticket Routing with Google Gemini LLM**
 
-## Solution Overview
+## 🧠 Solution Overview
 
-This project implements an **intelligent ticket assignment system** that uses **Google Gemini LLM** as the brain to analyze support tickets and optimally assign them to available agents based on:
+This p## 🏗️ Project Structure
+
+```
+pycon-25-hackathon/
+├── 📄 dataset.json                    # Input data (agents and tickets)
+├── 🧠 main.py                         # Main LLM-powered system ⭐
+├── 🏛️ ARCHITECTURE.md                 # Professional system architecture
+├── 🎯 advanced_llm_prompt_system.py   # Few-shot prompting demo
+├── 🔄 intelligent_hybrid_system.py    # Advanced fallback system
+├── 🔧 utilities.py                    # Analysis and validation tools
+├── 🧪 test_assignment_system.py       # Comprehensive test suite
+├── 📋 requirements.txt                # Dependencies
+├── 📊 final_output_result.json        # Generated assignments
+└── 📖 README.md                       # This file
+```nts an **intelligent ticket assignment system** that uses **Google Gemini LLM** as the brain to analyze support tickets and optimally assign them to available agents based on:
 
 - **Agent Skills & Expertise** - Matches technical requirements to agent capabilities
 - **Current Workload** - Balances assignments for fair distribution
@@ -12,7 +26,9 @@ This project implements an **intelligent ticket assignment system** that uses **
 - **Availability Status** - Considers agent availability in real-time
 - **Experience Level** - Complex issues routed to senior agents
 
-### Key Features
+> 📋 **Full System Architecture**: See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the complete RAG-based design with Agent Management Layer
+
+### 🎯 Key Features
 
 ✅ **LLM-Powered Analysis** - Uses few-shot prompting with Google Gemini  
 ✅ **Adaptive Intelligence** - Handles new ticket types without retraining  
@@ -192,6 +208,18 @@ pycon-25-hackathon/
 - **Batch processing** for large datasets
 - **Graceful degradation** when APIs unavailable
 
+## 🏛️ **System Architecture**
+
+This project implements a **professional-grade RAG-based architecture** with:
+
+- **RAG Candidate Retrieval**: Vector database of agent profiles for similarity search
+- **LLM Assignment Module**: Few-shot prompting for intelligent decision making
+- **Agent Management Layer**: Dynamic onboarding and updating of agent profiles
+- **Load Balancer**: Equitable workload distribution across the team
+- **Monitoring & Feedback**: Continuous improvement and performance tracking
+
+> 📋 **Complete Architecture**: See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the full system design, data flows, and agent management schema
+
 ## 🚀 Advanced Features
 
 ### 🔬 **Prompt Engineering Toolkit**
@@ -280,7 +308,8 @@ Easily adapt for different industries:
 pycon-25-hackathon/
 ├── 📄 dataset.json                    # Input data (agents and tickets)
 ├── 🧠 main.py                         # Main LLM-powered system ⭐
-├── 🎯 advanced_llm_prompt_system.py   # Few-shot prompting demo
+├── �️ ARCHITECTURE.md                 # Professional system architecture
+├── �🎯 advanced_llm_prompt_system.py   # Few-shot prompting demo
 ├── 🔄 intelligent_hybrid_system.py    # Advanced fallback system
 ├── 🎭 demo.py                         # Quick demonstration script
 ├── 🔧 utilities.py                    # Analysis tools
